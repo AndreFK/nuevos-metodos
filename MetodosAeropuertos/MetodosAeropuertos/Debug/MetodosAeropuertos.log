@@ -1,0 +1,7 @@
+﻿  Body.cpp
+c:\users\usuario\desktop\mapas\metodosaeropuertos\metodosaeropuertos\body.cpp(585): warning C4101: 'z': unreferenced local variable
+c:\users\usuario\desktop\mapas\metodosaeropuertos\metodosaeropuertos\body.cpp(638): warning C4101: 'y': unreferenced local variable
+  Main.cpp
+  Vertex.cpp
+  Generating Code...
+  MetodosAeropuertos.vcxproj -> C:\Users\Usuario\Desktop\mapas\MetodosAeropuertos\MetodosAeropuertos\Debug\MetodosAeropuertos.exe
